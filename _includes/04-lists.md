@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* I'm a dog lover 🐶
+* I love to code 💻
+  * C
+  * Java
+  * Dart
+  * Python
